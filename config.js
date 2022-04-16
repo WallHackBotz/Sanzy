@@ -68,7 +68,7 @@ global.packname = 'Rrsszxx Store'
 global.author = 'WhatsApp Bot'
 
 
-global.sessionName = 'hisoka'
+global.sessionName = 'rrsszxx'
 
 
 global.prefa = ['','!','.','🐦','🐤','🗿']
